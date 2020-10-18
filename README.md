@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nithish</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A Passionate Python developer from India</h3>
 
-- 🔭 I’m currently working on **Python projects**
+- 🔭 I’m currently working on **Python projects,Automation Anywhere projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nitheshbethur39](https://github.com/nitheshbethur39)
 
@@ -15,4 +15,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 
