@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nithish</h1>
 <h3 align="center">A Passionate Python developer from India</h3>
 
-- 🔭 I’m currently working on **Python projects,Automation Anywhere projects**
+- 🔭 I’m currently working on **Python and Flask projects,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nitheshbethur39](https://github.com/nitheshbethur39)
 
