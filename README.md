@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nithish</h1>
-<h3 align="center">A Passionate Python developer from India</h3>
+<h3 align="center">A Passionate Data Analyst/Engineer</h3>
 
 - 🔭 I’m currently working on **Python and Flask projects,**
 
