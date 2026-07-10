@@ -67,6 +67,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 1,
             "ports": {
               "groups": {
                 "top": {
@@ -150,7 +151,6 @@
               ]
             },
             "id": "9d023b30-23d4-4278-9997-77df0ad9fdf6",
-            "zIndex": 1,
             "data": {
               "type": "tm.Actor",
               "name": "SNOW Requester",
@@ -184,6 +184,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 2,
             "ports": {
               "groups": {
                 "top": {
@@ -267,7 +268,6 @@
               ]
             },
             "id": "2d42e58c-45aa-4e34-8c72-0fb6e3948140",
-            "zIndex": 2,
             "data": {
               "type": "tm.Process",
               "name": "ServiceNow",
@@ -304,6 +304,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 3,
             "ports": {
               "groups": {
                 "top": {
@@ -387,7 +388,6 @@
               ]
             },
             "id": "b2e8a8d2-5d97-47d9-8d04-0af68536f121",
-            "zIndex": 3,
             "data": {
               "type": "tm.Process",
               "name": "EAF",
@@ -424,6 +424,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 4,
             "ports": {
               "groups": {
                 "top": {
@@ -507,7 +508,6 @@
               ]
             },
             "id": "afe252c3-e9c4-472a-a574-bb209c44f4e1",
-            "zIndex": 4,
             "data": {
               "type": "tm.Process",
               "name": "Jenkins",
@@ -737,6 +737,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 11,
             "ports": {
               "groups": {
                 "top": {
@@ -820,7 +821,6 @@
               ]
             },
             "id": "b17d291e-360f-4273-a21b-0a1f92081cd9",
-            "zIndex": 11,
             "data": {
               "type": "tm.Store",
               "name": "CyberArk PVWA",
@@ -877,8 +877,8 @@
                 {
                   "id": "3df0c840-edc5-4b99-a1b1-567c14e0ecc9",
                   "title": "Credential cracking",
-                  "status": "Open",
-                  "severity": "TBD",
+                  "status": "Mitigated",
+                  "severity": "High",
                   "type": "Information disclosure",
                   "description": "See OWASP Automated Threat #7:\nBrute force, dictionary and guessing attacks used against authentication processes of the application to identify valid account credentials",
                   "mitigation": "Defences include restriction of excessive authentication attempts, control of interaction frequency and enforcement of a single unique action",
@@ -917,7 +917,7 @@
               "threatFrequency": {
                 "tampering": 0,
                 "repudiation": 0,
-                "informationDisclosure": 2,
+                "informationDisclosure": 3,
                 "denialOfService": 0
               }
             }
